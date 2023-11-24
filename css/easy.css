@@ -20,7 +20,7 @@ body {
 .game-area {
     background-color: rgba(238, 130, 238, 0);
     /* height: 80%; */
-    width: 35rem;
+    width: 21rem;
     display: flex;
     flex-wrap: wrap;
     gap: 1rem;
@@ -32,8 +32,8 @@ body {
     color: white;
     border: 0.1rem solid white;
     font-size: 8rem;
-    height: 10rem;
-    width: 7rem;
+    height: 6rem;
+    width: 4rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -52,7 +52,7 @@ body {
 
 .reveal{
     display: flex;
-    font-size: 5rem;
+    font-size: 3rem;
 }
 
 h1,
